@@ -10,11 +10,11 @@ All notebooks were built in **Google Colab** using Python and scikit-learn.
 
 | # | Notebook | Topic | Algorithm | Dataset |
 |---|----------|-------|-----------|---------|
-| 1 | `Practical_5_task_1.ipynb` | Salary Prediction | Simple Linear Regression | `Salary_dataset.xlsx` |
+| 1 | `Practical_5.ipynb` | Salary Prediction | Simple Linear Regression | `Salary_dataset.xlsx` |
 | 2 | `Practical_6.ipynb` | Heart Disease Prediction | Random Forest Classifier | `heart.csv` |
-| 3 | `Practical_8_1.ipynb` | Income-Based Customer Clustering | K-Means Clustering | `income.csv` |
-| 4 | `Customer_Segmentation__1_.ipynb` | Mall Customer Segmentation | Hierarchical (Agglomerative) Clustering | `Mall_Customers.csv` |
-| 5 | `Iris_Flower_Classification__1_.ipynb` | Iris Flower Grouping | Hierarchical (Agglomerative) Clustering | `Iris.csv` |
+| 3 | `Practical_8.ipynb` | Income-Based Customer Clustering | K-Means Clustering | `income.csv` |
+| 4 | `Customer_Segmentation .ipynb` | Mall Customer Segmentation | Hierarchical (Agglomerative) Clustering | `Mall_Customers.csv` |
+| 5 | `Iris_Flower_Classification .ipynb` | Iris Flower Grouping | Hierarchical (Agglomerative) Clustering | `Iris.csv` |
 
 ---
 
